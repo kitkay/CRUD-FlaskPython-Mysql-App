@@ -1,4 +1,5 @@
 flaskSqlEnv/
+.idea/
 
 .gitignore
 .idea
